@@ -68,3 +68,14 @@ This project is designed to run using a **Streamlit-based user interface** for i
    ```bash
    streamlit run app.py
    ```
+## Demo Screenshots
+
+### Input Image
+![Input](uidemo/out1.png)
+
+### Segmentation & Overlay
+![Output](uidemo/out2.png)
+
+### Uncertainty & Explainability
+![Uncertainty](uidemo/out3.png)
+![Explainability](uidemo/out4.png)
